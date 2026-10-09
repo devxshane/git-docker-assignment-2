@@ -1,1 +1,1 @@
-Application mode: standard
+Application mode: performance
